@@ -1,0 +1,10 @@
+package.json
+{
+  "name": "minecraft-afk-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "mineflayer": "^4.16.1",
+    "express": "^4.18.2"
+  }
+}
